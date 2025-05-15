@@ -4,6 +4,6 @@
   "symbol": "VATT",
   "name": "Vatio",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/VatioVATT/CoinVATT/e86fbdeb13d11740120b08bc257a3ca0038479ae/Vatio%20VATT.png",
+  "logoURI": "https://raw.githubusercontent.com/VatioVATT/CoinVATT/refs/heads/main/VatioVATT.png",
   "tags": ["utility", "community", "governance", "vatt", "vatio"]
 }
