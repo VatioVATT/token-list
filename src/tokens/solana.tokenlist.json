@@ -4,7 +4,7 @@
   "symbol": "VATT",
   "name": "Vatio",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/VatioVATT/CoinVATT/refs/heads/main/VatioVATT.png",
+  "logoURI": "https://raw.githubusercontent.com/VatioVATT/CoinVATT/main/VatioVATT.png",
   "extensions": {
     "website": "https://vatio.xyz",
     "twitter": "https://twitter.com/vatiovatt"
